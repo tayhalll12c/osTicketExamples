@@ -64,3 +64,11 @@ Fill out another ticket as another one of the users that was created earlier.
 Open one more ticket. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/5VnIjPf.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Fill out a second ticket as Karen.  
+</p>
+<br />
