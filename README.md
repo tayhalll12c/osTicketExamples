@@ -173,7 +173,7 @@ Click on department status.
 <img src="https://i.imgur.com/KsgjsoH.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Assign to the proper team. In this case, a reason was provided.            
+Assign to the proper department. In this case, a reason was provided.            
 </p>
 <br />
 
