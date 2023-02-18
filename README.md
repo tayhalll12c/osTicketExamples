@@ -29,7 +29,7 @@ This demonstration outlines the lifecycle of a ticket from intake to resolution 
 <img src="https://i.imgur.com/iLXIc7J.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to the link for 'end users' of osTicket, and click 'Open a New Ticket' 
+Navigate to the link for "end users" of osTicket, and click 'Open a New Ticket' 
 </p>
 <br />
 
