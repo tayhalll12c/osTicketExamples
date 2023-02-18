@@ -248,3 +248,11 @@ Assign the ticket. (this ticket will be assigned to John instead of Jane).
 Address the sender of the ticket, and post the reply.                 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/2hqDhqN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log in as John.                  
+</p>
+<br />
