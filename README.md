@@ -104,3 +104,27 @@ Select 'Supreme Admin' and click 'Save Changes'.
 Log into osTicket as an agent that was created earlier.   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/HgWDtUa.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the first ticket that was created.    
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MpbTIff.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the priority status.     
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/NNXjdSx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update the priority status to better reflect the severity of the issue.      
+</p>
+<br />
