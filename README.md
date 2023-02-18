@@ -280,3 +280,35 @@ Click on the ticket that was assigned to John, type a reply, and change the tick
 Log back in as Jane, and click on the last ticket.                   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ouKV0q4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update the priority level.                    
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0Z7zlSQ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assign.                     
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CfaG5Nx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update the SLA plan.                     
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/we5ZWJd.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type a reply and resolve the ticket.                      
+</p>
+<br />
