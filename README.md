@@ -200,3 +200,11 @@ Click on the ticket that was just updated.
 Type another reply, change the ticket status to 'Resolved', and post the reply. The issue has been corrected, and this ticket will disappear from the list of tickets that are considered "open".              
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Zaa9WSU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The first ticket is now in the 'Closed' section.              
+</p>
+<br />
