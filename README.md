@@ -208,3 +208,11 @@ Type another reply, change the ticket status to 'Resolved', and post the reply. 
 The first ticket is now in the 'Closed' section.              
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/RRciB5h.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the next ticket.             
+</p>
+<br />
