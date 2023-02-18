@@ -82,6 +82,14 @@ Under the list of agents, click Jane Doe.
 <br />
 
 <p>
+<img src="https://i.imgur.com/PXXoEv9.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select 'Support' under 'Extended Access' and add. 
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/n4OpBg4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
