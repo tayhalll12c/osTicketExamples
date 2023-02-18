@@ -250,6 +250,14 @@ Address the sender of the ticket, and post the reply.
 <br />
 
 <p>
+<img src="https://i.imgur.com/I1lQtdU.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Before logging in as John, make sure he has Supreme Admin permissions that allow him to close tickets.              
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/2hqDhqN.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
