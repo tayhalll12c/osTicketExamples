@@ -264,3 +264,11 @@ Before logging in as John, make sure he has Supreme Admin permissions that allow
 Log in as John.                  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/efnrs4h.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the ticket that was assigned to John, type a reply, and change the ticket status to 'Resolved'.                   
+</p>
+<br />
