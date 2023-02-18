@@ -74,6 +74,14 @@ Fill out a second ticket as Karen.
 <br />
 
 <p>
+<img src="https://i.imgur.com/6cpF09Y.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Under the list of agents, click Jane Doe.   
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/n4OpBg4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
