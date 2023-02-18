@@ -128,3 +128,59 @@ Click on the priority status.
 Update the priority status to better reflect the severity of the issue.      
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/m6BXleY.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on assignment status.       
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oZEaL4C.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assign the ticket to Jane herself.        
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wOpmkvh.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on SLA status.         
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CuADe5O.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update the SLA plan to better reflect the severity of the issue. In this case, SEV-A was chosen because the issue needs to be addressed ASAP.          
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wh7C1YS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on department status.           
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KsgjsoH.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assign to the proper team. In this case, a reason was provided.            
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XHvK8bC.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+At the bottom of the page, type a reply that addresses the sender of the ticket, and post it.             
+</p>
+<br />
