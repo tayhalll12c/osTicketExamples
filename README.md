@@ -184,3 +184,19 @@ Assign to the proper department. In this case, a reason was provided.
 At the bottom of the page, type a reply that addresses the sender of the ticket, and post it.             
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/vbsBew7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the ticket that was just updated.              
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/bHHHUZg.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Type another reply, change the ticket status to 'Resolved', and post the reply. The issue has been corrected, and this ticket will disappear from the list of tickets that are considered "open".              
+</p>
+<br />
