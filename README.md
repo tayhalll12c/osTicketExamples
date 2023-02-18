@@ -40,3 +40,11 @@ Navigate to the link for 'end users' of osTicket, and click 'Open a New Ticket'
 Fill out a ticket as someone who requires assistance, and create.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/lK89WcV.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open a new ticket. 
+</p>
+<br />
