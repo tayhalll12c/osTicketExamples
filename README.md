@@ -56,3 +56,11 @@ Open a new ticket.
 Fill out another ticket as another one of the users that was created earlier. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/lK89WcV.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open one more ticket. 
+</p>
+<br />
