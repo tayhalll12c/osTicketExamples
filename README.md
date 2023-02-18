@@ -90,6 +90,14 @@ Select 'Support' under 'Extended Access' and add.
 <br />
 
 <p>
+<img src="https://i.imgur.com/8UeTRju.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Select 'Supreme Admin' and click 'Save Changes'.  
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/n4OpBg4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
