@@ -272,3 +272,11 @@ Log in as John.
 Click on the ticket that was assigned to John, type a reply, and change the ticket status to 'Resolved'.                   
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/dOU6Ial.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log back in as Jane, and click on the last ticket.                   
+</p>
+<br />
