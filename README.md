@@ -216,3 +216,35 @@ The first ticket is now in the 'Closed' section.
 Click on the next ticket.             
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/hhtjqIj.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update the priority level.              
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/CcO6S4A.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Update the SLA plan.               
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/H632aiF.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assign the ticket. (this ticket will be assigned to John instead of Jane).                
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/yoTmIZl.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Address the sender of the ticket, and post the reply.                 
+</p>
+<br />
