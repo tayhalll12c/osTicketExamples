@@ -72,3 +72,11 @@ Open one more ticket.
 Fill out a second ticket as Karen.  
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/n4OpBg4.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Log into osTicket as an agent that was created earlier.   
+</p>
+<br />
